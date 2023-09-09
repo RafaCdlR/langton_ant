@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/langton.dir/main.cpp.o CMakeFiles/langton.dir/simulation_handler.cpp.o CMakeFiles/langton.dir/grid.cpp.o CMakeFiles/langton.dir/ant.cpp.o -o langton 
