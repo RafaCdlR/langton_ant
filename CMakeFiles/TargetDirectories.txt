@@ -1,3 +1,0 @@
-/home/rafa/rcr/otros/programacion/c++/langton/CMakeFiles/langton.dir
-/home/rafa/rcr/otros/programacion/c++/langton/CMakeFiles/edit_cache.dir
-/home/rafa/rcr/otros/programacion/c++/langton/CMakeFiles/rebuild_cache.dir
