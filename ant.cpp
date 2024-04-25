@@ -17,7 +17,7 @@ void ant::next_step(grid& g) {
 
     g.toggleTile(x,y);
 
-    // If it's tile is white, turns 90º to left, else, turns 90º to the right
+    // If current tile is white, turns 90º to left, else, turns 90º to the right
     if (white) 
         looking_at++;
     else
